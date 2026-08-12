@@ -185,6 +185,3 @@ netflix-content-strategy/
 * Custom dashboard theming
 * Data visualization
 * Data storytelling
-
-```
-```
